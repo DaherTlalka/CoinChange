@@ -1,0 +1,44 @@
+.titel{
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(209, 196, 196, 0.25);
+    padding: 0.2rem;
+    margin: 1rem 0;
+    border-radius: 12px;
+    color: rgb(0, 0, 0) ;
+    
+    
+
+}
+.input{
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(209, 196, 196, 0.25);
+    padding: 0.2rem;
+    margin: 1rem 0;
+    border-radius: 12px;
+    background-color: #ba9004;
+    color: whitesmoke ;
+}
+.select{
+    font: inherit;
+    cursor: pointer;
+    padding: 0.2rem 1rem;
+    border: 1px solid #cdca08;
+    background-color: #838383;
+    color: rgb(3, 2, 2);
+    border-radius: 15px;
+    margin-right: 1rem;
+}
+.button{ 
+    font: inherit;
+    cursor: pointer;
+    padding: 0.2rem 1rem;
+    border: 1px solid #40005d;
+    background-color: #cba302;
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin-right: 1rem;
+}
+.result{
+    color:#ffffff;
+    font-size: 35px;
+}
